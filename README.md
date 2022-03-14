@@ -1,2 +1,5 @@
-[![citrucn's github stats](https://github-readme-stats.vercel.app/api?username=citrucn&show_icons=true&hide_title=true&include_all_commits=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrucn&layout=compact&hide_title=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=citrucn&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=citrucn&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=citrucn&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=citrucn&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=citrucn&theme=vue)
